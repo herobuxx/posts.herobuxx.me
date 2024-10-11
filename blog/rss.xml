@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Posts Blog</title>
+        <link>https://posts.buxxed.me/blog</link>
+        <description>Posts Blog</description>
+        <lastBuildDate>Sat, 12 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[First blog!]]></title>
+            <link>https://posts.buxxed.me/blog/2024/10/12/first-one</link>
+            <guid>https://posts.buxxed.me/blog/2024/10/12/first-one</guid>
+            <pubDate>Sat, 12 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[What’s Up, Fellas?]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-up-fellas">What’s Up, Fellas?<a href="https://posts.buxxed.me/blog/2024/10/12/first-one#whats-up-fellas" class="hash-link" aria-label="Direct link to What’s Up, Fellas?" title="Direct link to What’s Up, Fellas?">​</a></h2>
+<p>This is my first blog post using Docusaurus!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-am-i-up-to-currently">What Am I Up to Currently?<a href="https://posts.buxxed.me/blog/2024/10/12/first-one#what-am-i-up-to-currently" class="hash-link" aria-label="Direct link to What Am I Up to Currently?" title="Direct link to What Am I Up to Currently?">​</a></h2>
+<p>I’ve been working on my AOSP-based custom ROM project called <a href="https://github.com/halcyonproject" target="_blank" rel="noopener noreferrer">Halcyon</a>. Currently, I am focusing on its new major update based on the latest Android 15, which was released on September 4th. Most things are working just fine; however, there are still some minor issues occurring, and some more UI work is needed.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

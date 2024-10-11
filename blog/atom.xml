@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://posts.buxxed.me/blog</id>
+    <title>Posts Blog</title>
+    <updated>2024-10-12T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://posts.buxxed.me/blog"/>
+    <subtitle>Posts Blog</subtitle>
+    <icon>https://posts.buxxed.me/img/me-small.png</icon>
+    <entry>
+        <title type="html"><![CDATA[First blog!]]></title>
+        <id>https://posts.buxxed.me/blog/2024/10/12/first-one</id>
+        <link href="https://posts.buxxed.me/blog/2024/10/12/first-one"/>
+        <updated>2024-10-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s Up, Fellas?]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-up-fellas">What’s Up, Fellas?<a href="https://posts.buxxed.me/blog/2024/10/12/first-one#whats-up-fellas" class="hash-link" aria-label="Direct link to What’s Up, Fellas?" title="Direct link to What’s Up, Fellas?">​</a></h2>
+<p>This is my first blog post using Docusaurus!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-am-i-up-to-currently">What Am I Up to Currently?<a href="https://posts.buxxed.me/blog/2024/10/12/first-one#what-am-i-up-to-currently" class="hash-link" aria-label="Direct link to What Am I Up to Currently?" title="Direct link to What Am I Up to Currently?">​</a></h2>
+<p>I’ve been working on my AOSP-based custom ROM project called <a href="https://github.com/halcyonproject" target="_blank" rel="noopener noreferrer">Halcyon</a>. Currently, I am focusing on its new major update based on the latest Android 15, which was released on September 4th. Most things are working just fine; however, there are still some minor issues occurring, and some more UI work is needed.</p>]]></content>
+        <author>
+            <name>Alif Fathur</name>
+            <uri>https://github.com/herobuxx</uri>
+        </author>
+    </entry>
+</feed>
