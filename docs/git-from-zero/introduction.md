@@ -1,7 +1,7 @@
 ---
 slug: /gfz/introduction
 sidebar_position: 1
-pagination_next: null
+pagination_prev: null
 ---
 
 # Introduction to Git
