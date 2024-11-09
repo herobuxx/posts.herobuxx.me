@@ -1,6 +1,7 @@
 ---
 title: "Intro"
 sidebar_position: 1
+pagination_next: null
 ---
 
 # Welcome to the Tutorial Section!
